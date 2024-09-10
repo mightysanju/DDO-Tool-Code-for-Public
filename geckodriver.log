@@ -1,0 +1,435 @@
+1699372065443	geckodriver	INFO	Listening on 127.0.0.1:53276
+1699372068456	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53277" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sanjukuj\\AppData\\Local\\Temp\\rust_mozprofileqZ76pC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699372069732	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699372069936	Marionette	INFO	Listening on port 53285
+WebDriver BiDi listening on ws://127.0.0.1:53277
+Read port: 53285
+1699372070155	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+DevTools listening on ws://127.0.0.1:53277/devtools/browser/d9d3484f-208b-4118-b573-a19f2a9bbc3d
+1699372073703	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+JavaScript warning: https://midway-auth.amazon.com/assets/application-ed29322a4f73dd108aca098d6a8b4813f716873daf9949491dd675ec89909191.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: ({})
+JavaScript error: resource://gre/actors/AutoCompleteChild.sys.mjs, line 111: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.sys.mjs, line 111: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 149: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.sys.mjs" line: 111}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.sys.mjs" line: 111}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+1699372087961	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+console.error: ({})
+1699372429228	Marionette	INFO	Stopped listening on port 53285
+Dynamically enable window occlusion 1
+1699372441572	geckodriver	INFO	Listening on 127.0.0.1:55085
+1699372445076	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55086" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sanjukuj\\AppData\\Local\\Temp\\rust_mozprofileBl9NQP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699372446158	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699372446265	Marionette	INFO	Listening on port 63050
+Read port: 63050
+WebDriver BiDi listening on ws://127.0.0.1:55086
+1699372446418	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+DevTools listening on ws://127.0.0.1:55086/devtools/browser/ad6ed8b0-f4ea-4191-9704-e74f5818e0cd
+1699372450122	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+JavaScript warning: https://midway-auth.amazon.com/assets/application-ed29322a4f73dd108aca098d6a8b4813f716873daf9949491dd675ec89909191.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: ({})
+JavaScript error: resource://gre/actors/AutoCompleteChild.sys.mjs, line 111: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.sys.mjs, line 111: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 149: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.sys.mjs" line: 111}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.sys.mjs" line: 111}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+1699372466029	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+console.error: ({})
+1699372513444	Marionette	INFO	Stopped listening on port 63050
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1699372513498	WebDriver BiDi	ERROR	Failed to stop protocol: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@cert.sys.mjs:51
+destroy()@Session.sys.mjs:205
+deleteSession()@WebDriverBiDi.sys.mjs:142
+stop()@WebDriverBiDi.sys.mjs:230
+observe()@resource://gre/modules/AsyncShutdown.sys.mjs:575
+1699372626107	geckodriver	INFO	Listening on 127.0.0.1:63243
+1699372629125	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63244" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sanjukuj\\AppData\\Local\\Temp\\rust_mozprofiledry5DM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699372630471	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699372630597	Marionette	INFO	Listening on port 63251
+WebDriver BiDi listening on ws://127.0.0.1:63244
+Read port: 63251
+1699372630754	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+DevTools listening on ws://127.0.0.1:63244/devtools/browser/ec504792-b21e-4015-b382-d625468ba5ff
+1699372634541	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+JavaScript warning: https://midway-auth.amazon.com/assets/application-ed29322a4f73dd108aca098d6a8b4813f716873daf9949491dd675ec89909191.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: ({})
+JavaScript error: resource://gre/actors/AutoCompleteChild.sys.mjs, line 111: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.sys.mjs, line 111: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 149: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.sys.mjs" line: 111}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.sys.mjs" line: 111}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+1699372651976	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+console.error: ({})
+1699372997325	Marionette	INFO	Stopped listening on port 63251
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63361" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sanjukuj\\AppData\\Local\\Temp\\rust_mozprofile5dL2HT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699372779634	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699372779755	Marionette	INFO	Listening on port 63373
+WebDriver BiDi listening on ws://127.0.0.1:63361
+Read port: 63373
+1699372779944	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+DevTools listening on ws://127.0.0.1:63361/devtools/browser/09523d49-8dcb-4f28-a76a-5d541eabf61d
+1699372783972	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+JavaScript warning: https://midway-auth.amazon.com/assets/application-ed29322a4f73dd108aca098d6a8b4813f716873daf9949491dd675ec89909191.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: ({})
+JavaScript error: resource://gre/actors/AutoCompleteChild.sys.mjs, line 111: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.sys.mjs, line 111: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 149: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.sys.mjs" line: 111}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.sys.mjs" line: 111}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+1699372799986	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+console.error: ({})
+1699374110854	Marionette	INFO	Stopped listening on port 63373
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63517" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sanjukuj\\AppData\\Local\\Temp\\rust_mozprofileB27WOO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699372996385	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699372996565	Marionette	INFO	Listening on port 63526
+WebDriver BiDi listening on ws://127.0.0.1:63517
+Read port: 63526
+1699372996991	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+DevTools listening on ws://127.0.0.1:63517/devtools/browser/dcce7d7e-13e3-4a1a-8ce9-cd59844c5c37
+1699373001773	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+JavaScript warning: https://midway-auth.amazon.com/assets/application-ed29322a4f73dd108aca098d6a8b4813f716873daf9949491dd675ec89909191.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: ({})
+JavaScript error: resource://gre/actors/AutoCompleteChild.sys.mjs, line 111: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.sys.mjs, line 111: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 149: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.sys.mjs" line: 111}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.sys.mjs" line: 111}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+JavaScript warning: https://midway-auth.amazon.com/assets/application-ed29322a4f73dd108aca098d6a8b4813f716873daf9949491dd675ec89909191.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+1699373021917	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+console.error: ({})
+1699373348704	geckodriver	INFO	Listening on 127.0.0.1:63793
+1699373351930	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63794" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sanjukuj\\AppData\\Local\\Temp\\rust_mozprofilespvvYA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699373353361	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699373353516	Marionette	INFO	Listening on port 63801
+Read port: 63801
+WebDriver BiDi listening on ws://127.0.0.1:63794
+1699373353681	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+DevTools listening on ws://127.0.0.1:63794/devtools/browser/97ce0b48-4428-4c80-afcb-b973e94b4fc9
+1699373358085	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+JavaScript warning: https://midway-auth.amazon.com/assets/application-ed29322a4f73dd108aca098d6a8b4813f716873daf9949491dd675ec89909191.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: ({})
+1699373396280	geckodriver	INFO	Listening on 127.0.0.1:63910
+1699373399315	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63911" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sanjukuj\\AppData\\Local\\Temp\\rust_mozprofileRw1Qk7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699373400509	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699373400630	Marionette	INFO	Listening on port 63921
+WebDriver BiDi listening on ws://127.0.0.1:63911
+Read port: 63921
+1699373400976	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+DevTools listening on ws://127.0.0.1:63911/devtools/browser/3779a310-2112-4950-b77e-2336d37fb168
+1699373416885	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+JavaScript warning: https://midway-auth.amazon.com/assets/application-ed29322a4f73dd108aca098d6a8b4813f716873daf9949491dd675ec89909191.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: ({})
+JavaScript error: resource://gre/actors/AutoCompleteChild.sys.mjs, line 111: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.sys.mjs, line 111: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 149: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.sys.mjs" line: 111}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.sys.mjs" line: 111}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+JavaScript warning: https://midway-auth.amazon.com/assets/application-ed29322a4f73dd108aca098d6a8b4813f716873daf9949491dd675ec89909191.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1699373436718	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+console.error: ({})
+1699374111807	Marionette	INFO	Stopped listening on port 63921
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64027" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sanjukuj\\AppData\\Local\\Temp\\rust_mozprofiler7hjmW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699373508500	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699373508630	Marionette	INFO	Listening on port 64038
+Read port: 64038
+WebDriver BiDi listening on ws://127.0.0.1:64027
+1699373508826	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+DevTools listening on ws://127.0.0.1:64027/devtools/browser/1be6ae3f-50d4-4dc9-8101-2701522c5d46
+1699373512513	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+JavaScript warning: https://midway-auth.amazon.com/assets/application-ed29322a4f73dd108aca098d6a8b4813f716873daf9949491dd675ec89909191.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: ({})
+JavaScript error: resource://gre/actors/AutoCompleteChild.sys.mjs, line 111: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.sys.mjs, line 111: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 149: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.sys.mjs" line: 111}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.sys.mjs" line: 111}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+JavaScript warning: https://midway-auth.amazon.com/assets/application-ed29322a4f73dd108aca098d6a8b4813f716873daf9949491dd675ec89909191.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+1699373533511	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1699374114123	Marionette	INFO	Stopped listening on port 64038
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64247" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sanjukuj\\AppData\\Local\\Temp\\rust_mozprofilepygTor"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699373772238	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699373772361	Marionette	INFO	Listening on port 64254
+WebDriver BiDi listening on ws://127.0.0.1:64247
+Read port: 64254
+1699373772655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+DevTools listening on ws://127.0.0.1:64247/devtools/browser/acd536c9-2efa-459f-90e1-5456529f4f10
+1699373776697	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+JavaScript warning: https://midway-auth.amazon.com/assets/application-ed29322a4f73dd108aca098d6a8b4813f716873daf9949491dd675ec89909191.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: ({})
+JavaScript error: resource://gre/actors/AutoCompleteChild.sys.mjs, line 111: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.sys.mjs, line 111: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 149: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.sys.mjs" line: 111}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.sys.mjs" line: 111}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+JavaScript warning: https://midway-auth.amazon.com/assets/application-ed29322a4f73dd108aca098d6a8b4813f716873daf9949491dd675ec89909191.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+1699373798106	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1699373867259	Marionette	INFO	Stopped listening on port 64254
+Dynamically enable window occlusion 1
+1699374013439	geckodriver	INFO	Listening on 127.0.0.1:64462
+1699374016427	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64463" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sanjukuj\\AppData\\Local\\Temp\\rust_mozprofileumcMxB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699374017775	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699374017901	Marionette	INFO	Listening on port 64472
+WebDriver BiDi listening on ws://127.0.0.1:64463
+Read port: 64472
+1699374018083	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+DevTools listening on ws://127.0.0.1:64463/devtools/browser/52887a31-2e9f-4ac0-95be-2b04740769f1
+1699374022533	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+JavaScript warning: https://midway-auth.amazon.com/assets/application-ed29322a4f73dd108aca098d6a8b4813f716873daf9949491dd675ec89909191.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: ({})
+JavaScript error: resource://gre/actors/AutoCompleteChild.sys.mjs, line 111: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.sys.mjs, line 111: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 149: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.sys.mjs" line: 111}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.sys.mjs" line: 111}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://midway-auth.amazon.com."
+1699374042585	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1699387083030	Marionette	INFO	Stopped listening on port 64472
+Dynamically enable window occlusion 1

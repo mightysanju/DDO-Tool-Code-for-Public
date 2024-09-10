@@ -1,0 +1,16 @@
+In V2 : 
+we were using df.to_sql with which normally we had no issue running code in spyder ,
+after converting to exe we had an issue of 
+
+error code : 
+
+ entered try catch loop in uploading method
+error uploading data ! (psycopg2.errors.UndefinedObject) unrecognized configuration parameter "standard_conforming_strings"
+
+[SQL: show standard_conforming_strings]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+Uploading Done !
+
+
+At last it was rectifined using psycopg.conect . 
+Executing insert query for each row .
